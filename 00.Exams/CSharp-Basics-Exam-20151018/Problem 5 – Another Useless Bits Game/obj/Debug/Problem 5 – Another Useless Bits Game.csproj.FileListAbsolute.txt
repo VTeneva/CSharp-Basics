@@ -1,0 +1,6 @@
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 5 – Another Useless Bits Game\bin\Debug\Problem 5 – Another Useless Bits Game.exe.config
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 5 – Another Useless Bits Game\bin\Debug\Problem 5 – Another Useless Bits Game.exe
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 5 – Another Useless Bits Game\bin\Debug\Problem 5 – Another Useless Bits Game.pdb
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 5 – Another Useless Bits Game\obj\Debug\Problem 5 – Another Useless Bits Game.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 5 – Another Useless Bits Game\obj\Debug\Problem 5 – Another Useless Bits Game.exe
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 5 – Another Useless Bits Game\obj\Debug\Problem 5 – Another Useless Bits Game.pdb

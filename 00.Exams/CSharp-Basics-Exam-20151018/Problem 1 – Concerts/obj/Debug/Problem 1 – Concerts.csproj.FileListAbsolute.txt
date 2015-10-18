@@ -1,0 +1,6 @@
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 1 – Concerts\bin\Debug\Problem 1 – Concerts.exe.config
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 1 – Concerts\bin\Debug\Problem 1 – Concerts.exe
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 1 – Concerts\bin\Debug\Problem 1 – Concerts.pdb
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 1 – Concerts\obj\Debug\Problem 1 – Concerts.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 1 – Concerts\obj\Debug\Problem 1 – Concerts.exe
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\Problem 1 – Concerts\obj\Debug\Problem 1 – Concerts.pdb

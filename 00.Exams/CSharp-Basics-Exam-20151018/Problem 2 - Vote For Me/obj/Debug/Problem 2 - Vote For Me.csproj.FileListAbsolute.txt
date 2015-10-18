@@ -1,0 +1,5 @@
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\VoteForMe\bin\Debug\VoteForMe.exe.config
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\VoteForMe\bin\Debug\VoteForMe.exe
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\VoteForMe\bin\Debug\VoteForMe.pdb
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\VoteForMe\obj\Debug\VoteForMe.exe
+E:\SoftUni\Programing Basics CSharp\Exam 20151018\CSharp-Basics-Exam-20151018\VoteForMe\obj\Debug\VoteForMe.pdb
